@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<form method = "post" action = "info.php">
+<form method = "post">
 <input type = "text" name = "Firstname"> 
 <input type ="text" name = "Lastname"> 
 <input type = "Submit" >
